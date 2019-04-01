@@ -9,6 +9,7 @@ function setCart() {
 }
 
 function addToCart(item) {
+  
 
 }
 
