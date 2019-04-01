@@ -1,19 +1,14 @@
 var cart = [];
 
 function getCart() {
- return cart;
+
 }
 
 function setCart() {
-  // cart = c;
-  // return cart;
+
 }
 
 function addToCart(item) {
-  // item = { itemName: "", 
-  //     itemPrice: Math.random()
-  
-  // }
 
 }
 
