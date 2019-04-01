@@ -4,13 +4,17 @@ function getCart() {
  return cart;
 }
 
-function setCart(c) {
-  cart = c;
-  return cart;
+function setCart() {
+  // cart = c;
+  // return cart;
 }
 
 function addToCart(item) {
- // write your code here
+  // item = { itemName: "", 
+  //     itemPrice: Math.random()
+  
+  // }
+
 }
 
 function viewCart() {
