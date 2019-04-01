@@ -51,9 +51,6 @@ var cart = [];
   let t = 0
 
 
- @@ -15,3 +58,12 @@ function total() {
-
-
    return t	  
 }	}
 
